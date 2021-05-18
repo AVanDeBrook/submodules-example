@@ -1,0 +1,9 @@
+[submodule "modules/c-dependency-graph"]
+	path = modules/c-dependency-graph
+	url = https://github.com/AVanDeBrook/c-dependency-graph.git
+[submodule "modules/small-projects-and-assignments"]
+	path = modules/small-projects-and-assignments
+	url = https://github.com/AVanDeBrook/small-projects-and-assignments.git
+[submodule "modules/PCAN-Capture"]
+	path = modules/PCAN-Capture
+	url = https://github.com/AVanDeBrook/PCAN-Capture.git
